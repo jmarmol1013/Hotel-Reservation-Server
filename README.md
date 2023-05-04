@@ -1,0 +1,1 @@
+Own project for the server side of my Hotel Reservation APP, For back-end I used the Javascript frameworks express.js and node.js, for the database is MySQL and the Firebase auth for the authentication to deliver a faster,complete APIs and great server to the Client.
